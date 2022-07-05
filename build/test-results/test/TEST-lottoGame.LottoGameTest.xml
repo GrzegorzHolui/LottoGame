@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="lottoGame.LottoGameTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-05T11:03:17" hostname="LAPTOP-BE974Q6F" time="0.224">
+  <properties/>
+  <testcase name="should return that six numbers that are aimed" classname="lottoGame.LottoGameTest" time="0.222"/>
+  <testcase name="should return that three numbers that are aimed" classname="lottoGame.LottoGameTest" time="0.001"/>
+  <system-out><![CDATA[User aimed 6 numbers
+numbersGenerated [5, 6, 1, 2, 3, 4]
+UserNumbers [5, 6, 1, 2, 3, 4]
+User aimed 3 numbers
+numbersGenerated [5, 6, 1, 2, 3, 4]
+UserNumbers [44, 45, 46, 1, 2, 3]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
