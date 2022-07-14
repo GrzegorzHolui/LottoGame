@@ -1,4 +1,4 @@
-package lottoGame;
+package lottogame;
 
 import java.util.Set;
 
@@ -10,7 +10,7 @@ public class GenerableImplTest implements Generable {
     }
 
     @Override
-    public Set<Integer> receiveSixNumbers() {
+    public Set<Integer> generate() {
         return generatedNumbers;
     }
 }

@@ -1,4 +1,4 @@
-package lottoGame;
+package lottogame;
 
 interface Game {
     Result start();
